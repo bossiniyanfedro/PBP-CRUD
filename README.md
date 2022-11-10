@@ -1,6 +1,6 @@
 # PBP-CRUD
 
-Kelompok 10
+Nama Anggota Kelompok 10
 1. Bossini Yan Fedro  			    24060120140170
 2. Fadhil Irsyad  			        24060120140173
 3. Muhammad Rafly Ardhiananda  	24060120130125
